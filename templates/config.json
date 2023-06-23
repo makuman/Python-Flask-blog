@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:mysql@127.0.0.1:3306/blog_db",
+    "prod_uri": "mysql://root:mysql@127.0.0.1:3306/blog_db",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com",
+    "blog_name": "yoyo Blog",
+    "tag_line": "A Blog website designed by Mak",
+    "gmail-user": "mak@gmail.com",
+    "gmail-password": "######",
+    "about_text": "The content on about page goes here",
+    "number_of_posts": 2,
+    "login_image": "letterM.jpg",
+    "blog_name": "Mak blog",
+    "admin_user":"mak@gmail.com",
+    "admin_password": "yoyo",
+    "upload_location": "C:\\Users\\Mak\\Documents\\python\\flask_tut\\static"
+  }
+}
